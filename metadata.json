@@ -1,0 +1,5 @@
+{
+  "name": "Excel Insight Dashboard",
+  "description": "Upload Excel files to generate instant visual reports and data insights.",
+  "requestFramePermissions": []
+}
